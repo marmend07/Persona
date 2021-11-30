@@ -25,9 +25,11 @@ public class Persona {
 
     //Métodos
 
-    public String getNombre () { return nombre;  }
+    public String getNombre () 
+    { return nombre;  }
 
-    public String getApellidos () { return apellidos;  }
+    public String getApellidos () 
+    { return apellidos;  }
 
     public int getEdad () { return edad;   }
     public static void main(String[] args) {
