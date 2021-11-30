@@ -31,7 +31,7 @@ public class Profesor extends Persona {
     public void mostrarNombreApellidosYCarnet() {
 
 
-        System.out.println ("Profesor de nombre: " + getNombre() + " " +  getApellidos() +
+        System.out.println ("El nombre del profesor es: " + getNombre() + " " +  getApellidos() +
 
          " con Id de profesor: " + getIdProfesor() ); }
     
