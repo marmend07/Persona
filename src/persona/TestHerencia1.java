@@ -12,7 +12,7 @@ package persona;
 public class TestHerencia1 {
     public static void main (String [ ] Args) {
 
-        Profesor profesor1 = new Profesor ("Gerardo", "Rivas Gonzalez", 40);
+        Profesor profesor1 = new Profesor ("Gerardo", "Rivas Gonzalez", 45);
 
         profesor1.setIdProfesor("33-457-34");
 
